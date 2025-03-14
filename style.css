@@ -1,0 +1,82 @@
+.color-red
+{
+    color: red;
+}
+
+
+.color-gold
+{
+    color: gold;
+}
+
+
+.color-darkorange
+{
+    color: darkorange;
+}
+
+
+.color-crimson
+{
+    color: crimson;
+}
+
+
+.background-color-lightblue
+{
+    background-color: rgb(225, 229, 255);
+}
+
+
+.display-flex
+{
+    display: flex;
+}
+
+
+.text-align-center
+{
+    text-align: center;
+}
+
+
+.border
+{
+    border-radius: 300px;
+}
+
+
+.justify-items-center
+{
+    justify-items: center;
+}
+
+
+.justify-content-center
+{
+    justify-content: center;
+}
+
+
+.padding
+{
+    padding: 5px;
+}
+
+
+.width
+{
+    width: 95%;
+}
+
+
+.margin
+{
+    margin: auto;
+}
+
+
+.gap
+{
+    gap: 20px;
+}
