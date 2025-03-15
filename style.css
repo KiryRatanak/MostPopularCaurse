@@ -1,6 +1,84 @@
+.font
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.border
+{
+    border-radius: 10px;
+}
+
+
+.border-1
+{
+    border-radius: 5px;
+}
+
+
+.border-2
+{
+    border-radius: 15px;
+}
+
+
+.margin
+{
+    margin: auto;
+}
+
+
+.margin-top-1
+{
+    margin-top: 30px;
+}
+
+
+.color-gray
+{
+    color: gray;
+}
+
+
+.color-gray-1
+{
+    color: rgba(232, 231, 231, 0.796);
+}
+
+
+.color-white
+{
+    color: white;
+}
+
+
 .color-red
 {
     color: red;
+}
+
+
+.color-blue
+{
+    color: blue;
+}
+
+
+.color-green
+{
+    color: green;
+}
+
+
+.color-purple
+{
+    color: purple;
+}
+
+
+.color-black
+{
+    color: black;
 }
 
 
@@ -22,6 +100,12 @@
 }
 
 
+.background-color-green
+{
+    background-color: rgb(230, 255, 230);
+}
+
+
 .background-color-lightblue
 {
     background-color: rgb(225, 229, 255);
@@ -31,6 +115,24 @@
 .background-color-lightblue-1
 {
     background-color: rgb(247, 248, 255);
+}
+
+
+.background-color-white
+{
+    background-color: white;
+}
+
+
+.background-color-blue
+{
+    background-color: blue;
+}
+
+
+.background-color-lightpurple
+{
+    background-color: rgb(242, 234, 243);
 }
 
 
@@ -64,10 +166,57 @@
 }
 
 
+.padding-1
+{
+    padding: 0px 15px;
+}
+
+
+.padding-top-0
+{
+    padding-top: 9px;
+}
+
+
+.padding-top-1
+{
+    padding-top: 7px;
+}
+
+
+.padding-left-0
+{
+    padding-left: 20px;
+}
+
+
+.padding-left-1
+{
+    padding-left: 8px;
+}
+
+
+.padding-left-2
+{
+    padding-left: 10px;
+}
+
+
+.padding-left-3
+{
+    padding-left: 40px;
+}
+
+
+.padding-right
+{
+    padding-right: 40px;
+}
+
+
 .width-0
 {
     width: 100%;
-    background-color: rgb(248, 253, 255);
 }
 
 
@@ -77,21 +226,75 @@
 }
 
 
-.margin
+.width-2
 {
-    margin: auto;
+    width: 340px;
+}
+
+
+.width-3
+{
+    width: 90px;
+}
+
+
+.width-4
+{
+    width: 70px;
+}
+
+
+.width-5
+{
+    width: 1570px;
+}
+
+
+.height-0
+{
+    height: 250px;
+}
+
+
+.height-1
+{
+    height: 25px;
+}
+
+
+.height-2
+{
+    height: 675px;
+}
+
+
+.height-3
+{
+    height: 25px;
+}
+
+
+.height-4
+{
+    height: 65px;
+}
+
+
+.height-5
+{
+    height: 1000px;
+}
+
+
+.object-fit-cover
+{
+    object-fit: cover;
 }
 
 
 .gap
 {
     gap: 30px;
-}
-
-
-.width-2
-{
-    width: 370px;
 }
 
 
@@ -113,9 +316,13 @@
 }
 
 
-.margin-left
+.justify-content-s-b
 {
-    margin-left:0;
+    justify-content: space-between;
 }
 
 
+.box-shadow
+{
+    box-shadow: 1px 1px 1px gainsboro;
+}
